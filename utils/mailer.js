@@ -99,7 +99,7 @@ export async function passwordReset(userEmail) {
           A request was sent for password reset, if this wasn't you please
           contact our customer service. Click the reset link below to proceed
         </p>
-        <a href="https://ameritradesbrokers.com/forgotPassword/newPassword">
+        <a href="https://www.ameritradesbrokers.com/password-reset/newPassword">
           Reset Password
         </a>
         <p>
